@@ -1,2 +1,2 @@
-# sepia
-Sepia plugin for Quick Picture Viewer
+# Colorizer
+Colorizer plugin for Quick Picture Viewer
